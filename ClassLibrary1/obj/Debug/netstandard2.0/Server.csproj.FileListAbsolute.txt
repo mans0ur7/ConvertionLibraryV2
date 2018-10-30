@@ -1,0 +1,25 @@
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Mono.Cecil.dll
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Server.dll.config
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Server.deps.json
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Server.dll
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Server.pdb
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Server.csprojAssemblyReference.cache
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Server.AssemblyInfoInputs.cache
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Server.AssemblyInfo.cs
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Server.csproj.CopyComplete
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Server.dll
+C:\Users\husse\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Server.pdb
+C:\Users\husse\OneDrive\Skrivebord\Aflevering\TCP Client Server\ClassLibrary1\obj\Debug\netstandard2.0\Server.csprojAssemblyReference.cache
+C:\Users\husse\OneDrive\Skrivebord\Aflevering\TCP Client Server\ClassLibrary1\obj\Debug\netstandard2.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\husse\OneDrive\Skrivebord\Aflevering\TCP Client Server\ClassLibrary1\obj\Debug\netstandard2.0\Server.AssemblyInfoInputs.cache
+C:\Users\husse\OneDrive\Skrivebord\Aflevering\TCP Client Server\ClassLibrary1\obj\Debug\netstandard2.0\Server.AssemblyInfo.cs
+C:\Users\husse\OneDrive\Skrivebord\Aflevering\TCP Client Server\ClassLibrary1\obj\Debug\netstandard2.0\Server.dll
+C:\Users\husse\OneDrive\Skrivebord\Aflevering\TCP Client Server\ClassLibrary1\obj\Debug\netstandard2.0\Server.pdb
