@@ -11,6 +11,9 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.VisualStudio.QualityTools.UnitTestFramework/11.0.50727.1": {
+        "type": "package"
+      },
       "NETStandard.Library/2.0.3": {
         "type": "package",
         "dependencies": {
@@ -49,6 +52,20 @@
         "microsoft.netcore.platforms.1.1.0.nupkg.sha512",
         "microsoft.netcore.platforms.nuspec",
         "runtime.json"
+      ]
+    },
+    "Microsoft.VisualStudio.QualityTools.UnitTestFramework/11.0.50727.1": {
+      "sha512": "gSFN+u+k3HfON4HcqzpQ0jFN8lluUHQjkjyk1DLBr6PNogmlrDBmzFKMLy9ynwVtXonwx8N1quJzL7RfNLJssA==",
+      "type": "package",
+      "path": "microsoft.visualstudio.qualitytools.unittestframework/11.0.50727.1",
+      "files": [
+        ".signature.p7s",
+        "MSTest.exe",
+        "MSTest.exe.config",
+        "Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll",
+        "Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml",
+        "microsoft.visualstudio.qualitytools.unittestframework.11.0.50727.1.nupkg.sha512",
+        "microsoft.visualstudio.qualitytools.unittestframework.nuspec"
       ]
     },
     "NETStandard.Library/2.0.3": {
@@ -220,6 +237,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Microsoft.VisualStudio.QualityTools.UnitTestFramework >= 11.0.50727.1",
       "NETStandard.Library >= 2.0.3",
       "NUnit3TestAdapter >= 3.10.0",
       "NUnitTestAdapter >= 2.1.1"
@@ -232,11 +250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\husse\\OneDrive\\Skrivebord\\Aflevering\\TCP Client Server\\ClassLibrary1\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\husse\\OneDrive\\Skrivebord\\Aflevering\\TCP Client Server\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\husse\\OneDrive\\Skrivebord\\Aflevering\\TCP Client Server\\ClassLibrary1\\Server.csproj",
+      "projectPath": "C:\\Users\\husse\\OneDrive\\Skrivebord\\Aflevering\\TCP Client Server\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\husse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\husse\\OneDrive\\Skrivebord\\Aflevering\\TCP Client Server\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\husse\\OneDrive\\Skrivebord\\Aflevering\\TCP Client Server\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -266,6 +284,10 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
+          "Microsoft.VisualStudio.QualityTools.UnitTestFramework": {
+            "target": "Package",
+            "version": "[11.0.50727.1, )"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",

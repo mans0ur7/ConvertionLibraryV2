@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "abbe47b10dabe03ca67f154fa28a85f965a05a97"
+    "signature": "49e46ed3f1834314ab7f97eb75bb59d970c9ceff"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,18 +9,20 @@
     ".NETStandard,Version=v2.0/": {
       "Server/1.0.0": {
         "dependencies": {
+          "Microsoft.VisualStudio.QualityTools.UnitTestFramework": "11.0.50727.1",
           "NETStandard.Library": "2.0.3",
           "NUnit3TestAdapter": "3.10.0",
           "NUnitTestAdapter": "2.1.1",
           "Microsoft.Data.Tools.Schema.Sql.UnitTesting": "15.1.0.0",
           "Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter": "15.1.0.0",
-          "Microsoft.VisualStudio.QualityTools.UnitTestFramework": "10.0.0.0"
+          "Microsoft.VisualStudio.QualityTools.UnitTestFramework.Reference": "10.0.0.0"
         },
         "runtime": {
           "Server.dll": {}
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.VisualStudio.QualityTools.UnitTestFramework/11.0.50727.1": {},
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -44,11 +46,11 @@
           }
         }
       },
-      "Microsoft.VisualStudio.QualityTools.UnitTestFramework/10.0.0.0": {
+      "Microsoft.VisualStudio.QualityTools.UnitTestFramework.Reference/10.0.0.0": {
         "runtime": {
           "Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "15.0.27906.1"
+            "fileVersion": "11.0.50727.1"
           }
         }
       }
@@ -66,6 +68,13 @@
       "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "path": "microsoft.netcore.platforms/1.1.0",
       "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.QualityTools.UnitTestFramework/11.0.50727.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gSFN+u+k3HfON4HcqzpQ0jFN8lluUHQjkjyk1DLBr6PNogmlrDBmzFKMLy9ynwVtXonwx8N1quJzL7RfNLJssA==",
+      "path": "microsoft.visualstudio.qualitytools.unittestframework/11.0.50727.1",
+      "hashPath": "microsoft.visualstudio.qualitytools.unittestframework.11.0.50727.1.nupkg.sha512"
     },
     "NETStandard.Library/2.0.3": {
       "type": "package",
@@ -98,7 +107,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.VisualStudio.QualityTools.UnitTestFramework/10.0.0.0": {
+    "Microsoft.VisualStudio.QualityTools.UnitTestFramework.Reference/10.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
